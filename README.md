@@ -54,3 +54,6 @@ And of course some other little projects that will be added soon here
 
 <h2>Let's talk</h2>
 What is better than coding? Coding together. If you have some cool ideas or you're also searching for a coding buddy, you can always reach me through Discord or Instagram
+###
+Discord: shuumaster
+Instagram: alexander___w
