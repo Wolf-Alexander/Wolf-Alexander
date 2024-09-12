@@ -2,7 +2,7 @@
 
 **`Tech freak for life`**
 
-I'm an indie developer looking for new projects to improve my daily life and just some cool stuff to have in my protfolio
+I'm an indie developer looking for new projects to improve my daily life and just some cool stuff to have in my portfolio
 
 ---
 - **Student from Berlin, Germany**
