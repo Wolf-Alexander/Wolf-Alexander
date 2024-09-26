@@ -46,7 +46,7 @@ I'm an indie developer looking for new projects to improve my daily life and jus
 
 **FluentRester** is an AI language learning program that constantly evaluates your skill in a language and gives you conversation/auditory/speaking exercises to improve your skills in every way
 ###
-Demo Launch: 21.10.2024 (maybe...)
+**SecureRester** is just a password mananger programm so I can just save my passwords there and have them saved in a encrypted file
 
 ###
 And of course some other little projects that will be added soon here
