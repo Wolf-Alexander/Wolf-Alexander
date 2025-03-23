@@ -6,7 +6,7 @@ I'm an indie developer looking for new projects to improve my daily life and jus
 
 ---
 - **Student from Berlin, Germany**
-- **16 years old**
+- **17 years old**
 - **Passion: Creating stuff**
 
 - **Hobbies**
@@ -39,22 +39,3 @@ I'm an indie developer looking for new projects to improve my daily life and jus
   <img width="12" />
 </div>
 <hr>
-
-###
-
-<h2>What I'm currently working on</h2>
-
-**FluentRester** is an AI language learning program that constantly evaluates your skill in a language and gives you conversation/auditory/speaking exercises to improve your skills in every way
-###
-**SecureRester** is just a password mananger programm so I can just save my passwords there and have them saved in an encrypted file
-
-###
-And of course some other little projects that will be added soon here
-
-
-<h2>Let's talk</h2>
-What is better than coding? Coding together. If you have some cool ideas or you're also searching for a coding buddy, you can always reach me through Discord or Instagram
-
-###
-
-Discord: shuumaster --- Instagram: alexander___w
