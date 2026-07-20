@@ -6,7 +6,7 @@ I'm an indie developer looking for new projects to improve my daily life and jus
 
 ---
 - **Student from Berlin, Germany**
-- **17 years old**
+- **18 years old**
 - **Passion: Creating stuff**
 
 - **Hobbies**
